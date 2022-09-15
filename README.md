@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rakesh.kushwaha.7879@outlook.com**
 
-- ⚡ Fun fact **I Think, I am Maukaterian**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rakeshk61090613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakeshk61090613" height="30" width="40" /></a>
