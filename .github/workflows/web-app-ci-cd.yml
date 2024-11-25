@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest  # Switch to Ubuntu for better compatibility
+    runs-on: ubuntu-latest  # Use a Linux runner for compatibility
 
     steps:
       - name: Checkout code from GitHub
@@ -42,7 +42,12 @@ jobs:
       - name: Set Up Firebase Authentication
         run: |
           echo "${{ secrets.FIREBASE_AUTH_TOKEN }}" > $HOME/firebase-key.json
+          ls -l $HOME  # List files to confirm the JSON is created
+          cat $HOME/firebase-key.json  # Optional: Validate the JSON content
         shell: bash
+
+      - name: Check Firebase Version
+        run: firebase --version
 
       - name: Deploy to Firebase
         run: firebase deploy --non-interactive --only hosting
