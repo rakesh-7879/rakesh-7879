@@ -1,0 +1,34 @@
+[
+    {
+        "key": "finovers",
+        "imageLeft": false,
+        "color": "violet",
+        "type": "Web App",
+        "title": "Finovers - Account Solutions",
+        "shortDescription": "Welcome to Finovers, your reliable partner for managing and maintaining your company's accounting and finance details. We provide a range of services aimed at simplifying your financial operations and ensuring accuracy, compliance, and efficiency.",
+        "thumbnailSrc": "./assets/img/photos/finovers-thumbnail.png",
+        "thumbnailSrcSet": "./assets/img/photos/finovers-thumbnail.png 2x",
+        "knowMore": "https://finovers.com"
+    },
+    {
+        "key": "xpendito",
+        "imageLeft": true,
+        "color": "blue",
+        "type": "Mobile Design",
+        "title": "Xpendito - Best for Tracking Expenses",
+        "shortDescription": "Our app is designed to be user-friendly and intuitive, making it easy for anyone to use, regardless of their financial knowledge or experience. Whether you're a student trying to manage your monthly budget, a professional looking to track business expenses, or someone simply looking to gain a better understanding of where your money is going, our app is the perfect solution.",
+        "thumbnailSrc": "./assets/img/photos/xpendito.png",
+        "thumbnailSrcSet": "./assets/img/photos/f2@2x.png 2x",
+        "knowMore": "https://xpendito.com"
+    },
+    {
+        "key": "general-store",
+        "imageLeft": false,
+        "color": "violet",
+        "type": "E-Commerce",
+        "title": "General Store",
+        "shortDescription": "This is an E-Commerce web application for the general store. Where we can view products and add them into favorites, carts, and place orders for the future. Users can add a product in favourite or cart as a guest and after login, this item will Marge with the logged users.",
+        "thumbnailSrc": "./assets/images/portfolios/f1.webp",
+        "thumbnailSrcSet": "./assets/images/portfolios/f1_2x.webp 2x"
+    }
+]

@@ -1,0 +1,1750 @@
+[
+    {
+        "key": "getting-started",
+        "title": "Getting Started",
+        "topics": [
+            {
+                "key": "getting-started-as-tenant",
+                "title": "Getting Started As a Tenant",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "To successfully transition your business with Finovers, we recommend beginning the process by registering as a tenant."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Here’s a detailed guide to help you through the registration process:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by visiting <a href='https://finovers.org/'>Finovers</a>. Here, you will find a registration form that needs to be filled out. Take your time to provide accurate information to facilitate your account setup.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "https://logowik.com/content/uploads/images/todo-group3144.logowik.com.webp",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After submitting the form, our dedicated support team will take over. They will create your account and establish your database tailored to your business needs. Once this is completed, you will receive an email notification containing your login ID and initial password.",
+                                "details": []
+                            },
+                            {
+                                "title": "Upon receiving your credentials, you can log in for the first time. Use the ID and password provided to access your account and explore the features available to you.",
+                                "details": []
+                            },
+                            {
+                                "title": "If you wish to enhance your security by changing your password, navigate to the Profile page. You can find the button to access this page in the top right corner of the dashboard. On the Profile page, you will have the ability to update your personal information as well. However, please keep in mind that the name of your database is fixed and cannot be altered.",
+                                "details": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "src": "https://logowik.com/content/uploads/images/todo-group3144.logowik.com.webp",
+                        "alt": "HTML Basics Image"
+                    }
+                ]
+            },
+            {
+                "key": "getting-started-as-user",
+                "title": "Getting Started As a User",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "To successfully transition your business with Finovers, we recommend beginning the process by registering as a user."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Here’s a detailed guide to help you through the registration process:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by visiting <a href='https://finovers.org/'>Finovers</a>. Here, you will find a registration form that needs to be filled out. Take your time to provide accurate information to facilitate your account setup.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "https://logowik.com/content/uploads/images/todo-group3144.logowik.com.webp",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After submitting the form, our dedicated support team will take over. They will create your account and establish your database tailored to your business needs. Once this is completed, you will receive an email notification containing your login ID and initial password.",
+                                "details": []
+                            },
+                            {
+                                "title": "Upon receiving your credentials, you can log in for the first time. Use the ID and password provided to access your account and explore the features available to you.",
+                                "details": []
+                            },
+                            {
+                                "title": "If you wish to enhance your security by changing your password, navigate to the Profile page. You can find the button to access this page in the top right corner of the dashboard. On the Profile page, you will have the ability to update your personal information as well. However, please keep in mind that the name of your database is fixed and cannot be altered.",
+                                "details": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": "image",
+                        "src": "https://logowik.com/content/uploads/images/todo-group3144.logowik.com.webp",
+                        "alt": "HTML Basics Image"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "invoicing",
+        "title": "Invoicing",
+        "topics": [
+            {
+                "key": "getting-started-with-invoice",
+                "title": "Getting Started with Invoice",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Managing invoices is a fundamental responsibility within the accounting and finance departments. This task requires precise calculations and careful attention to detail, as each invoice must be accurate to prevent financial discrepancies. Errors in invoicing can lead to significant issues, such as cash flow problems, strained vendor relationships, and potential legal complications. Therefore, it is essential to implement efficient systems and practices to streamline the invoicing process. Utilizing software tools like Finovers, conducting regular audits, and providing staff training can help minimize mistakes and ensure that financial operations run smoothly, ultimately safeguarding the business's financial health."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To manage invoices, go to the \"Invoices\" section in the side menu of your account dashboard. By clicking on this option, you will be taken to a dedicated page that shows a complete list of all invoices that have been created and recorded in the system."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/invoice_manage_one.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "On the invoices page, you will find several functions designed to help you manage your invoices efficiently. These features allow you to easily <a href='http://localhost:8080/knowledgebase/create-invoice.html'>create new invoices</a> and <a href='http://localhost:8080/knowledgebase/invoice-update.html'>update</a> existing ones to reflect any changes in your billing requirements. You can also <a href='http://localhost:8080/knowledgebase/invoice-delete.html'>delete</a> invoices, <a href='http://localhost:8080/knowledgebase/download-invoice.html'>download</a> them, and add <a href='http://localhost:8080/knowledgebase/invoice%20-payment.html'>payment</a> information. To simplify your search process, you can apply various filters, such as date range, invoice status, or customer name, which will help you narrow down the displayed results."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/invoice_manage_two.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Furthermore, clicking on any invoice will provide you with detailed information about that particular invoice, including itemized charges, payment history, and any notes relevant to the transaction. "
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Additionally, this section allows you to make payments directly through the platform, ensuring a seamless experience without the need for separate processes. You can also download copies of your invoices in a variety of formats for your records, serving as a reliable way to keep track of your financial documents. Should you find any invoices that are no longer necessary, you have the option to delete them permanently."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Every invoice listed on this page will display key information at a glance, such as its current status—whether it is pending, paid, or overdue—alongside the due date for payment. This feature helps you stay organized and maintain oversight of your financial obligations, ensuring you never miss a payment deadline."
+                    }
+                ]
+            },
+            {
+                "key": "create-invoice",
+                "title": "Create Invoice",
+                "details": [
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "To begin creating an invoice, you must first incorporate essential components such as <a href=''>Sales Tax</a>,<a href=''> Items</a>, and <a href=''>Stakeholders</a>. This foundational step ensures that your invoice is complete and complies with all necessary regulations. "
+                            },
+                            {
+                                "title": "Click on the side menu and select \"Invoices.\" This will take you to a detailed list of all previously created invoices, where you can perform various actions such as creating, updating, paying, or downloading invoices."
+                            },
+                            {
+                                "title": "On the invoices list page, locate the \"Add Invoice\" button situated in the top right corner. Clicking this button will lead you to a dedicated form designed for invoice creation. ",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_add_button.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Here, you’ll first need to choose the customer's name from a dropdown list. Upon selection, the relevant customer details will automatically populate onto the invoice, streamlining the information entry process.  ",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_add_form_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Next, enter the unique invoice number that will identify this particular transaction. After that, select the currency in which the invoice will be issued, and input the invoice creation date along with the due date for payment. ",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_add_form_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once these initial details are entered, proceed to add the items that will appear on the invoice. Carefully check the unit prices and per-unit rates for accuracy, adjusting them as necessary. Any changes you make will automatically update the item amount for the invoice. If any of the items you’ve added are subject to sales tax, the system will calculate the tax amount automatically based on the rates set earlier. ",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_add_form_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After populating all the fields and ensuring everything is accurate, you will see a summary that includes the total amount due, the calculated tax, any applicable TDS (Tax Deducted at Source) if it applies, and the final payable amount.  ",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_add_form_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Additionally, if you wish to provide more context or documentation for the invoice, there is an option to add attachments, enhancing the clarity and professionalism of your invoice. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "invoice-update",
+                "title": "Invoice Update ",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "After you have created and submitted an invoice, you may find yourself needing to make updates or corrections at a later time. To do this, start by navigating to the action list associated with the specific invoice you wish to edit. Look for the option labeled \"Edit\" and select it. This will lead you to an editable form that displays all the information you initially entered when creating the invoice."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/invoice_edit_form_one.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "In the editable form, you will have the flexibility to modify various details such as the invoice date, billing address, line items, quantities, prices, and any additional notes or terms specified. However, please note that the invoice number is a unique identifier and remains fixed; it cannot be changed to maintain the integrity and consistency of your financial records."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "It is crucial to understand that after you proceed to add a payment to the invoice, the system will lock any further updates to the invoice details. This restriction is in place to ensure the accuracy of your payment records and to prevent any discrepancies. Therefore, take the time to carefully review and make all necessary changes before you finalize any payments to ensure that all information is correct and up to date."
+                    }
+                ]
+            },
+            {
+                "key": "invoice-delete",
+                "title": "Invoice Delete ",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Once you have successfully created and added an invoice to your records, you may find it necessary to delete it at some point. If you decide to proceed with this action, follow these detailed steps to ensure the process is executed correctly."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Start by navigating to the Invoice page by selecting Invoice from the side menu. This will lead you to a list of invoices. Now search for the specific invoice entry you wish to delete. If the list is long, you may find it helpful to utilize the filtering options to narrow down the results. Once you find the correct entry, look for the action button corresponding to that invoice. Clicking on this button will reveal a \"Delete\" option."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/invoice_delete.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "It's crucial to understand the consequences of this action. When you choose to delete the invoice, it will be permanently erased from your records. This means you will no longer be able to view or retrieve it in the future. However, one benefit of deleting an invoice is that it will free up the corresponding invoice number. This allows you to generate a new invoice using the same number if necessary, which can be helpful for maintaining consistency in your numbering system."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Before you proceed, take a moment to consider whether deleting the invoice is indeed what you want to do. If you have already added a <a href='http://localhost:8080/knowledgebase/invoice%20-payment.html'>payment</a> to the invoice, the option to delete it will no longer be available. Therefore, it’s important to be absolutely certain about your decision to delete the invoice before processing any payments. Carefully review any associated information to avoid unintentional data loss. If you're unsure, you may want to consult your records or discuss it with a colleague before finalizing the deletion."
+                    }
+                ]
+            },
+            {
+                "key": "download-invoice",
+                "title": "Download Invoice",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "To obtain a physical copy of your invoice after it has been generated, start by downloading the document. Before proceeding with the download, ensure that you have Added a <a href=''>template</a> that effectively showcases your company's branding and visual style. This template will form the basis of your invoice's appearance, allowing it to reflect your company's unique aesthetic while including all the necessary information for both your records and your clients."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To start, navigate to the Invoice page by selecting \"Invoice\" from the side menu of your dashboard. This action will direct you to a comprehensive list of all your invoices. Take a moment to search for the specific invoice entry you wish to download. If you find that the list is lengthy, utilizing the filtering options available can greatly aid in streamlining your search, allowing you to quickly locate the desired invoice."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/invoice_download.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Once you have identified the correct invoice, look for the action button associated with that entry, which should be clearly visible. By clicking on this button, you will be presented with a \"Download\" option. Selecting this will initiate the download process, allowing you to save a physical copy of your newly designed invoice for your records and send it to your clients."
+                    }
+                ]
+            },
+            {
+                "key": "invoice-payment",
+                "title": "Invoice Payment",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "After successfully processing a payment, it is crucial to document it accurately in our system to maintain comprehensive financial records. To facilitate a seamless and efficient documentation process, please adhere to the following detailed steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by selecting the \"Invoice\" option from the side menu. This action will redirect you to an extensive list of all your invoices, providing a clear overview of your financial transactions."
+                            },
+                            {
+                                "title": "In the invoice list, look for the invoice you wish to update with payment information. If your list is extensive, utilize the filter option to narrow down your search, making it easier to locate the desired invoice quickly."
+                            },
+                            {
+                                "title": "Once you find the relevant invoice, identify the \"Pay\" button in the action list next to it. Clicking this button will take you to the payment form, where you can enter all the necessary payment details.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_pay_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "The payment form will present you with crucial information related to the invoice, such as the name of the customer, the invoice number, the total amount due, applicable tax, TDS amount, and any previous payments made against this invoice. It will also show the remaining balance owed.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_pay_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "In the payment form, specify the amount you wish to add. Please be mindful that this amount must not exceed the remaining balance displayed next to the invoice."
+                            },
+                            {
+                                "title": "You will have three payment options to choose from: cash, bank transfer, or cheque. Select the option that best suits your needs. ",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_pay_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Depending on the payment method you opted for, you may need to provide further details. For a bank transfer, specify which bank account the funds will be withdrawn from. If you are paying by cheque, please include the cheque number for accurate tracking and reference.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/invoice_pay_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": " Finally, select the date of the payment and, if applicable, add a brief description to clarify the purpose of the transaction. This additional context will be useful for any future inquiries or reviews."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "After you have completed these steps, the payment will be officially recorded in the system. If you have settled the entire invoice amount, the invoice status will automatically update to \"Paid,\" signifying that no further payments can be applied to it."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Please note that in future updates, we will be introducing an additional payment option: UPI, to enhance flexibility in payment processing. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "sales-tax",
+        "title": "Sales Tax",
+        "topics": [
+            {
+                "key": "getting-started-with-sales_tax",
+                "title": "Getting Started with Sales Tax",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "When preparing invoices and bills, it is crucial to carefully consider various types of taxes, particularly the Goods and Services Tax (GST), among others. Properly incorporating these taxes into your invoices not only ensures compliance with local tax regulations but also provides transparency to your customers regarding the total cost of their purchases. "
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To start, it is important to first set up the relevant tax rates in your accounting system. This setup should be tailored to meet your specific business needs and adhere to the local tax laws applicable to your region. Once configured, as you begin to add items for sale or purchase in your invoicing software, you will be presented with a detailed list of available sales tax options."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "This feature is designed to streamline the process of including multiple tax types for each individual item. For example, if you sell products that are subject to different tax rates based on category or location, you will be able to select these rates on an item-by-item basis. This capability ensures that every applicable tax is accurately included in the final billing amount presented to your customers, eliminating any potential discrepancies or confusion."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To access and manage your sales taxes, begin by navigating to the \"Masters\" section in the side menu of your accounting software. Upon clicking this option, a dropdown menu will appear, showcasing various choices related to master records. Locate and select \"Sales Taxes\" from this list. This action will lead you to a dedicated sales tax management page that displays an organized and comprehensive list of all sales tax entries you have previously created."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/tax_manage_one.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "On this management page, you can easily manage your sales taxes. You have the option to add <a href='http://localhost:8080/knowledgebase/create-sales-tax.html'>new sales tax</a> entries. If any existing tax rates require <a href='http://localhost:8080/knowledgebase/sales-tax-update.html'>updating</a> due to regulatory changes or adjustments in your pricing structure, you can modify those entries to ensure they accurately reflect the most current information. If you find that certain tax entries are no longer applicable or necessary, you can <a href='http://localhost:8080/knowledgebase/delete-sales-tax.html'>delete</a> them completely from your records. Additionally, if you have a long list of taxes, you can filter the options to search for specific tax details."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/tax_manage_two.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "This centralized approach not only simplifies the oversight of your sales tax records but also ensures that you maintain accurate and up-to-date information. By meticulously managing your sales tax entries, you contribute to the smooth operation of your invoicing process while reinforcing compliance with tax obligations. This diligence ultimately fosters trust and clarity in your business transactions with customers."
+                    }
+                ]
+            },
+            {
+                "key": "create-sales-tax",
+                "title": "Create Sales Tax",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Sales tax plays a vital role in the preparation of invoices and bills, ensuring that the correct tax amount is accurately applied to each transaction. The automation of sales tax calculations significantly simplifies the invoicing process, making it faster and greatly minimizing the potential for errors."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To seamlessly add tax details into your system, please follow these clearly outlined steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by locating the \"Masters\" section in the side menu of your application. Upon clicking this, a dropdown menu filled with a range of options will appear. Among these, look for \"Sales Taxes\" and select it. This action will direct you to a dedicated page specifically designed for managing sales tax. ",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_add_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "In the top right corner of the sales tax management page, you will find a clearly labeled button that says \"Add Sales Tax\". Clicking this button will direct you to a form designed for entering all the necessary sales tax information.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_add_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the sales tax form, you will be prompted to provide several essential details. Start by entering a unique code or name for the tax— for example, \"IGST\", which stands for Integrated Goods and Services Tax. Next, you will need to input the percentage rate that applies to transactions, such as 18%, which indicates the applicable tax rate. If necessary, feel free to include a brief description that clarifies the purpose or application of this tax, helping others understand its relevance.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_add_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After ensuring that all required information is accurately filled in, click the \"Submit\" button to complete the entry process. This action will successfully add the tax details to your system, making the new sales tax visible across all relevant lists in your sales tax management system, thereby enhancing your operational efficiency."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By diligently following these steps, you will effectively manage sales tax within your invoicing system. This will lead to improved accuracy and efficiency, allowing for a smoother and more reliable invoicing process."
+                    }
+                ]
+            },
+            {
+                "key": "sales-tax-update",
+                "title": "Sales Tax Update ",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Once the tax has been successfully added to your records, you may find yourself needing to make updates or modifications to the tax information for various reasons. To ensure your records remain accurate and reflect any necessary changes, please follow these detailed steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by logging into your account and navigating to the Sales Tax page. In the side menu, look for the option labeled \"Master\" Click on this option, which will expand a submenu. From there, select \"Sales Tax\" to enter the dedicated section for tax management.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_edit_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once you are on the Sales Tax page, you will see a comprehensive list of all tax entries that have been created. To find the specific tax entry you want to update, utilize the search functionality. If the list is extensive, consider using the filtering options available, such as by name or type of tax, to narrow down your results efficiently. When you identify the correct tax entry, look for the corresponding action button associated with it.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_edit_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "By clicking on the action button next to the desired tax entry, a dropdown menu will appear. From this menu, select the \"Edit\" option. This action will redirect you to an edit form that displays the current details of the selected tax entry. Take this opportunity to carefully review all pre-existing information, ensuring that you understand what changes need to be made.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_edit_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Within the edit form, you can make any adjustments required to the tax details. This could involve altering the tax percentage, changing effective dates, or adding important notes to the entry for future reference. Be thorough in your modifications to ensure that all information reflects your intended updates."
+                            },
+                            {
+                                "title": "After you have reviewed and finalized your changes to the tax details, it’s crucial to submit the form to save your updates. Look for a \"Submit\" button at the bottom of the edit form. Once you click this button, the system will process your request and update the tax information accordingly. You should receive a confirmation that the modifications have been successfully recorded, thus keeping your tax records accurate and up to date."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "following these steps meticulously, you can effectively manage tax information, ensuring that all entries are correct and reflective of any recent changes."
+                    }
+                ]
+            },
+            {
+                "key": "activate-deactivate-sales-tax",
+                "title": "Activate/Deactivate Sales Tax",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "There are certain situations where a specific tax may not be in active use at the moment but could need reactivation in the future. In these cases, it is generally more efficient to deactivate the tax rather than leave it active without purpose. While complete deletion of such tax entries is not allowed due to regulatory requirements, deactivation provides the necessary flexibility for potential future use."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To change the status of a tax either by activating or deactivating it please follow these detailed steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "In the side menu, locate the option labeled \"Master\". Click on this option to expand a submenu with additional choices. From this submenu, select \"Sales Tax\" to access the section for managing tax-related matters.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_active_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Within the Sales Tax section, you will find a list of tax entries. If you have many entries, it can be helpful to use the available filtering options. These filters can help narrow your search by criteria such as tax name."
+                            },
+                            {
+                                "title": "Next to each tax entry, there will be an action button. Click this button to open a menu with options to activate or deactivate the tax. If the tax is currently active, the option will be labeled \"Deactivate\". If the tax is inactive, the option will be labeled \"Activate\".",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_active_two.png",
+                                        "alt": "HTML Basics Image"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_active_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After you have successfully changed the status of the tax, the sales tax list will automatically refresh to reflect the updated information."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "It’s important to note that inactive sales taxes will be visible only on the sales tax list page. Active sales taxes, however, will appear on all other relevant pages within the system. This distinction ensures clarity and organization in managing your sales taxes, helping you maintain a streamlined approach to tax compliance and oversight."
+                    }
+                ]
+            },
+            {
+                "key": "delete-sales-tax",
+                "title": "Delete Sales Tax",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Once you have successfully added a sales tax to your records, there may come a time when you need to remove it. If you've made the decision to delete a sales tax entry, follow these detailed steps to ensure the process is carried out accurately and without complications."
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by navigating to the \"Masters\" section located in the side menu of your application interface. Upon clicking this section, you will encounter a dropdown menu showcasing a variety of options available within the application. Among these options, look for \"Sales Taxes\" and select it. This action will take you to a dedicated page specifically designed for the management and oversight of sales tax entries.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_delete_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the Sales Tax page, you will be presented with a comprehensive list of all tax entries currently stored in the system. To efficiently locate the specific tax entry you wish to delete, utilize the integrated search functionality. If you find that the list is extensive, consider employing the filtering options available, which allow you to sort the entries by various criteria, such as tax name or type. Once you have located the correct tax entry, you will see an action button corresponding to it."
+                            },
+                            {
+                                "title": "Click on the action button next to the desired tax entry. A dropdown menu will appear, presenting you with several options. From this menu, select the \"Delete\" option. It is crucial to note that this action will permanently erase the tax entry from the system and cannot be undone.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/tax_delete_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Before you finalize the deletion of any tax record, take a moment to confirm that the tax details are no longer in use. Deleting active tax entries may lead to complications for other records associated with them in the future, potentially causing inconsistencies in your financial management. Always proceed with caution to safeguard the integrity of your records."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "bank-account",
+        "title": "Bank Account",
+        "topics": [
+            {
+                "key": "getting-started-with-bank-account",
+                "title": "Getting Started with Bank Account",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "In our modern society, an increasing number of people are opting for online and cashless transactions. These methods provide a level of convenience that traditional methods lack, allowing us to complete payments quickly and efficiently. However, it’s crucial to remain vigilant, as failing to keep track of all our online transactions can lead to financial complications and discrepancies."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To ensure your financial safety, it's important to monitor and maintain a record of all transactions you carry out. If you frequently make payments through bank transfers, you might want to consider storing your bank details securely within a reliable system. By doing this, the next time you need to pay an invoice or settle a bill, you won’t have to repeatedly input your banking information, which minimizes the potential for manual errors, such as typos or incorrect account numbers."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "You can confidently add your bank details to our system. The process is designed to be straightforward and requires only essential information. We prioritize your security and privacy, ensuring that any data you provide is handled with the utmost care to prevent any risks or issues. This approach not only streamlines your payment process but also enhances your overall experience by reducing the chance of complications that can arise from manual entry."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To access your bank details, start by selecting the \"Master\" option from the side menu. This action will take you to a list of your bank accounts. Once you see the list, click on the designated button next to the account you wish to manage. This will redirect you to the management page for that specific bank account."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/bank_manage_one.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "On the management page, you'll find a range of options available for handling your bank account. You can add <a href='http://localhost:8080/knowledgebase/create-bank-account.html'>new bank accounts</a>, <a href='http://localhost:8080/knowledgebase/sales-tax-update.html'>update</a> existing account details, <a href='http://localhost:8080/knowledgebase/activate-deactivate-bank-account.html'>activate or deactivate accounts></a> based on your needs, or even delete accounts that are no longer necessary. Additionally, if you are looking for specific information, you can apply filters to sort and manage your accounts more efficiently. Ensure to review your actions before confirming any changes to maintain accurate records."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/bank_manage_two.png",
+                        "alt": "HTML Basics Image"
+                    }
+                ]
+            },
+            {
+                "key": "create-bank-account",
+                "title": "Create Bank Account",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "The bank account is a vital component for facilitating online transactions efficiently. To initiate these transactions, we only require some fundamental information, including your account number, bank name, and a few additional details. When you add your account to Finovers, we specifically request only non-sensitive information, ensuring that your details remain secure and protected."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To assist you in adding your bank account details to the Finovers system, please follow these detailed steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by navigating to the bank details section. From the side menu, select the option labeled \"Master\". This action will reveal a sublist of options. In this sublist, locate and click on \"Bank Account\". This will redirect you to the bank account management page, where you can manage your account details.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_add_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once you are on the bank account management page, look for the \"Add Bank Account\" button located in the top right corner of the screen. Clicking this button will open up a form specifically designed for entering new bank account information",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_add_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "In the form that appears, you will need to provide several key details. These include your account number, the IFSC (Indian Financial System Code) number, the name of the account holder, the name of your bank, and the branch name. Ensure that you enter this information accurately to avoid any issues with your online transactions.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_add_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After you have filled in all the required fields, take a moment to review the information for accuracy and completeness. Once you are sure that all details are correct, click the \"Submit\" button to finalize the entry process. This action will successfully add your bank account to your Finovers system, making it accessible and visible in all relevant lists. This integration will help enhance your operational efficiency, simplifying your transaction management in the future."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these steps carefully, you can ensure that your bank account is set up correctly in the Finovers system, allowing for seamless online transactions."
+                    }
+                ]
+            },
+            {
+                "key": "bank-account-update",
+                "title": "Bank Account Update",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Once your account has been successfully added to your records, you may need to update or modify the bank account information for various reasons. To ensure your records remain accurate and reflect any necessary changes, please follow these detailed steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "In the side menu, look for the option labeled \"Master.\" Click on this option to expand a submenu. From there, select \"Bank Account\" to enter the section for managing bank accounts.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_edit_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the Bank Account page, you will see a comprehensive list of all account entries that have been created. To locate the specific account you want to update, use the search functionality. If the list is extensive, consider utilizing the filtering options, such as by account number or account holder's name, to narrow down your results efficiently."
+                            },
+                            {
+                                "title": "Once you have identified the account entry you wish to update, find the corresponding action button next to it. By clicking on the action button, a dropdown menu will appear. Select \"Edit\" from this menu. This will redirect you to an edit form displaying the current details of the selected account entry.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_edit_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Take this opportunity to carefully review all existing information to ensure clarity on what changes need to be made. In the edit form, you can modify the necessary details, such as the account number, IFSC code, or bank information. Be thorough in your adjustments to ensure that all information accurately reflects your intended updates.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_edit_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After you have reviewed and finalized your changes, it is crucial to submit the form to save the updates. Look for a \"Submit\" button at the bottom of the edit form. Once you click this button, the system will process your request and update the bank account information accordingly."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these steps carefully, you can effectively manage your bank account information, ensuring that all entries are correct and up to date with any recent changes."
+                    }
+                ]
+            },
+            {
+                "key": "activate-deactivate-bank-account",
+                "title": "Activate/Deactivate Bank Account",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "There may be instances when a particular bank account is not in active use at present, yet there is a possibility it will need to be reactivated in the future. In such cases, it is often more practical to deactivate the account instead of allowing it to remain active without any purpose. While it is not permissible to completely delete records of bank accounts due to regulatory requirements, deactivation provides the necessary flexibility for the account's potential future utilization."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To change the status of a bank account whether to activate or deactivate it please follow these comprehensive steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by navigating to the bank details section. From the side menu, select the option labeled \"Master\". This action will reveal a sublist of options. In this sublist, locate and click on \"Bank Account\". This will redirect you to the bank account management page, where you can manage your account details.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_active_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "In the Bank Account section, you will encounter a list that contains entries for each of your bank accounts. If you have multiple accounts listed, you might find it beneficial to utilize the filtering options provided in this section. These filters can help to refine your search based on specific criteria such as account number, account holder’s name, or account status."
+                            },
+                            {
+                                "title": "Adjacent to each account entry, you will observe an action button. Click on this button to open a contextual menu that offers options to either activate or deactivate the selected account. If the account is currently marked as active, the menu will display an option labeled \"Deactivate\". Conversely, if the account is currently inactive, the option will be labeled \"Activate\".",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_active_two.png",
+                                        "alt": "HTML Basics Image"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_active_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once you have successfully adjusted the status of the account, the system will automatically refresh the bank account list. This refresh ensures that the updated information regarding the account status is accurately reflected in the list."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "It is crucial to note that once an account is marked as inactive, it will exclusively be visible on the bank account list page. In contrast, active bank accounts will be displayed on all other pertinent pages throughout the system, enabling better accessibility and management."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these detailed steps, you can effectively manage the activation and deactivation of your bank accounts, ensuring that your account status aligns with your current needs and future plans."
+                    }
+                ]
+            },
+            {
+                "key": "delete-bank-account",
+                "title": "Delete Bank Account",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "After successfully adding a bank account to your records, you may eventually need to remove it. If you’ve decided to delete a bank account entry, follow these steps to ensure the process is straightforward and accurate."
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Start by navigating to the \"Masters\" section in the side menu of your application. Click on this section, and you will see a dropdown menu with various options. Locate and select \"Bank Account\". This action will direct you to a dedicated page for managing bank account entries.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_delete_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the bank account page, you will find a complete list of all account entries currently stored in the system. To efficiently find the specific account entry you wish to delete, use the integrated search functionality. If the list is extensive, consider using the filtering options, which allow you to sort entries by criteria such as account number or account holder name. Once you’ve found the correct account entry, you will see an action button next to it."
+                            },
+                            {
+                                "title": "Click on the action button adjacent to the desired account entry. A dropdown menu will appear, providing you with several options. Select the \"Delete\" option from this menu. It’s important to note that this action will permanently erase the account entry from the system and cannot be undone.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/bank_delete_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Before finalizing the deletion of any account record, take a moment to confirm that the account details are no longer in use. Deleting active account entries may create complications for other records associated with them, leading to inconsistencies in your financial management. Always proceed with caution to protect the integrity of your records."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "item",
+        "title": "Item",
+        "topics": [
+            {
+                "key": "getting-started-with-item",
+                "title": "Getting Started with Item",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Effectively managing inventory is a crucial yet challenging aspect of running any business. With Finovars, you gain a powerful tool that simplifies this process. Our platform allows you to easily oversee your inventory, streamline operations, and ensure that you have the right products available at the right time."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "You can effortlessly track stock levels, manage orders, and update inventory records with just a few simple steps. Our user-friendly solution empowers you to take control of your inventory management, enabling you to focus on growing your business."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "In Finovars, the term \"item\" includes both the products you provide and the services you offer or receive. By carefully entering all relevant details related to these items into the system, you can enhance your management processes and improve the accuracy of your invoices and bills."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Entering item details each time you create an invoice or bill can be labor-intensive and may lead to potential errors and inconsistencies that complicate financial tracking. To address these challenges, Finovars allows you to input the name of the item. The system then automatically retrieves and fills in the invoice or bill with all pertinent information associated with that item, including descriptions, pricing, quantities, and any applicable taxes. This feature not only saves time but also significantly reduces the likelihood of mistakes, ensuring that your billing process is both efficient and reliable."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To access the items within the Finovers platform, begin by selecting \"Masters\" from the side menu on your dashboard. This action will reveal a dropdown menu containing several additional options. Look for the option labeled \"Items\" and click on it."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/item_manage_one.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Upon selecting \"Items\", you will be taken to the item management page. Here, you will see a comprehensive list of all items that have already been added to the system. This list will include important details such as item names, descriptions, and any relevant identifiers."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "On the item management page, you can perform various actions related to your items. To add new items, click the \"Add Item\" button. To edit existing items, select the item and choose the \"Edit\" option. If you need to remove items that are no longer needed, select the \"Delete\" option. You can also activate or deactivate items and apply filters when necessary. Each action typically prompts a confirmation dialog to ensure you are making the right choice. This user-friendly interface allows for easy management of your item inventory within Finovers."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/item_manage_two.png",
+                        "alt": "HTML Basics Image"
+                    }
+                ]
+            },
+            {
+                "key": "create-item",
+                "title": "Create Item",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Effectively managing inventory is essential for the seamless operation of any business, regardless of whether you are handling physical products, providing services, or engaging in a combination of both. With Finovers, our all-inclusive inventory management system, you have the power to easily add items and keep your inventory organized. Follow these detailed and user-friendly steps to navigate the process of adding items, ensuring you maintain accurate records and optimize your business operations."
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Before adding items to your inventory, it is important to enter the <a href='http://localhost:8080/knowledgebase/create-sales-tax.html'>Sales Tax</a> details. This information is essential for any taxable items you may add, ensuring accurate tax calculations and compliance."
+                            },
+                            {
+                                "title": "Begin by navigating to the items management section. On the side menu, look for the option labeled \"Master\" and click on it. From there, select \"Items\". This action will transport you to the dedicated page to manage your items.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_add_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once you’re on the items management page, direct your attention to the top right corner where you will see a button marked \"Add Item\". Clicking this button will open a specialized form designed for entering detailed information about new items.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_add_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "In the form, the first field you will encounter requires you to select the \"Item Type\". You will have two options— \"Product\" or \"Service\". Make your choice based on the nature of the item you are adding to your inventory.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_add_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Next, you will need to specify the \"Appearance Type\" Here, you should indicate whether this item is intended for sale, for purchase, or if it serves both purposes. This information helps clarify the function of the item in your inventory.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_add_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Following that, you will input the name of the item. Ensure the name is clear and descriptive for easy identification. Additionally, specify the item amount, including the relevant currency. This information is vital for accurate pricing and sales processing.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_add_five.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "The next step involves deciding if the item is taxable. If it is taxable, you will be prompted to select the various types of taxes applicable to your item from the list of active sales tax options that you have entered before. This step is crucial to ensure compliance with tax regulations.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_add_six.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "If you chose \"Service\" as the Item Type, you will find an extra field labeled \"Unit of Work\". This field allows you to define how billing will occur—whether based on hourly, daily, monthly, weekly rates, or other parameters. Clearly specifying this will help in accurate invoicing.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_add_seven.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "If you want to provide more context about the item, you have the option to add a description. Use this space to highlight any important details that would assist in identifying or explaining the item further."
+                            },
+                            {
+                                "title": "Once all fields are filled out to your satisfaction, click the submit button to complete the addition process. Your newly added item will now be visible on your inventory list, where it will remain until you decide to delete or deactivate it."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these steps, you can efficiently manage your inventory and ensure that your records are always accurate and up to date."
+                    }
+                ]
+            },
+            {
+                "key": "update-item",
+                "title": "Update Item",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "After adding details to the system, you may find it necessary to make updates to some information. This could include changing an item's rate, name, sales tax, or other relevant details. To ensure a smooth update process, please follow the detailed steps outlined below:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by locating the side menu on your screen and clicking on the \"Master\" option. This action will expand a submenu filled with various options. Look for and select \"Items\" Once you do this, you will be directed to the Items Management page, where you will see a comprehensive list of all the items you have previously entered into the system, each displayed with its respective details.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_edit_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the Items Management page, take a moment to scan through the list. If you have many items, consider using the filter function to narrow down your search effectively. This will help you quickly locate the specific item you wish to update.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_edit_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once you spot the item you want to modify, look for the action button located next to it. Click on this button, which will present you with a dropdown list of available actions. Select \"Edit\" from this list to access the edit form for that particular item.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_edit_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "The edit form you are taken to will be populated with all the details you originally entered during the item’s creation. Carefully review each field to ensure accuracy, and make any necessary changes to reflect the correct information, such as adjusting the item’s name, rate, or sales tax.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_edit_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After you have meticulously updated all the required fields in the form, locate the \"Submit\" button at the bottom of the page. Click on this button to finalize your changes. Your item will now be updated in the system with the new information you've provided."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Following these steps will help you keep your item details accurate and up-to-date."
+                    }
+                ]
+            },
+            {
+                "key": "activate-deactivate-item",
+                "title": "Activate/Deactivate Item",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "There may be situations when a specific item doesn’t need to be active at the moment, but there is a possibility it will need to be reactivated in the future. In these cases, it is often more practical to deactivate the item rather than keep it active without purpose. While it is not allowed to completely delete records of items due to regulatory requirements, deactivation offers the necessary flexibility for the potential future use of the item."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To change the status of an item, whether to activate or deactivate it, please follow these steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by locating the side menu on your screen and clicking on the \"Master\" option. This will expand a submenu filled with various choices. Look for and select \"Items\" After doing this, you will be directed to the Items Management page, where you will see a comprehensive list of all the items you have previously entered into the system, along with their respective details.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_active_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the Items Management page, take a moment to review the list. If you have multiple items listed, it may be helpful to use the filtering options available in this section to refine your search.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_active_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Next to each item entry, you will see an action button. Click on this button to open a contextual menu offering options to either activate or deactivate the selected item. If the item is currently marked as active, the menu will display the option \"Deactivate\" Conversely, if the item is currently inactive, the option will be labeled \"Activate\".",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_active_three.png",
+                                        "alt": "HTML Basics Image"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_active_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After you have successfully adjusted the status of the item, the system will automatically refresh the item list. This refresh ensures that the updated information regarding the item status is accurately reflected in the list."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "It’s important to note that once an item is marked as inactive, it will only be visible on the Items Management page. In contrast, active items will appear on all other relevant pages throughout the system, enhancing accessibility and management."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these detailed steps, you can effectively manage the activation and deactivation of your items, ensuring that their status aligns with your current needs and future plans."
+                    }
+                ]
+            },
+            {
+                "key": "delete-item",
+                "title": "Delete Item",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Once you have successfully added an item to your records, there may come a time when you need to remove it. Deleting an item entry can be necessary for various reasons, such as correcting errors or updating your inventory. To ensure that this process is straightforward and accurate, follow these detailed steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Start by going to the \"Masters\" section in the side menu of your application. Click on this option, and a dropdown menu with various choices will appear. Locate and select \"Item\" to access the dedicated page for managing item entries.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_delete_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the item page, you will see a complete list of all item entries currently stored in the system. Use the integrated search functionality to quickly locate the specific item entry you wish to delete. If the list is extensive, consider using the filtering options to sort entries by criteria such as Name or Sales Type. Once you identify the correct item entry, you will see an action button next to it.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_delete_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Click on the action button next to the desired item entry. A dropdown menu will appear, presenting you with several options. Select the \"Delete\" option from this menu.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_delete_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "A pop-up will open to confirm your decision to delete the item. If you are sure you want to proceed, click on \"Delete\". Please note that this action will permanently erase the item entry from the system and cannot be undone.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/item_delete_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Before finalizing the deletion of any item record, take a moment to ensure that the item details are no longer in use. Deleting active item entries may lead to complications with other associated records, resulting in inconsistencies in your financial management. Always proceed with caution to maintain the integrity of your records"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "stakeholder",
+        "title": "Stakeholder",
+        "topics": [
+            {
+                "key": "getting-started-with-stakeholder",
+                "title": "Getting Started with Stakeholder",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "The Finovers system boasts a sophisticated module known as \"Stakeholder\", meticulously crafted to enhance the management of financial relationships with both customers and vendors. This powerful module revolutionizes your financial operations by providing an intuitive platform where you can seamlessly add and manage stakeholders. Users can effortlessly input their names along with pertinent details into invoices and bills, streamlining the entire invoicing process."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "One of the most remarkable features of the Stakeholder module is its automation capability, which intelligently populates critical information, including payment terms, billing addresses, and contact details. This functionality greatly reduces the risk of human error—an all-too-common issue that can lead to discrepancies and inefficiencies in financial documentation. As a result, users will experience a more streamlined invoicing process, coupled with enhanced accuracy across all financial records."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "In addition to automation, the Stakeholder module provides comprehensive tracking capabilities, allowing you to vigilantly monitor each transaction related to your customers and vendors. This functionality gives you a clear and concise view of all funds being transferred in and out, ensuring you have a thorough understanding of your financial interactions at any given time. The system meticulously manages all transaction records, eliminating the need for tedious manual calculations and significantly lowering the risk of overlooking crucial financial details"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Moreover, this holistic approach to financial management greatly boosts visibility and control over stakeholder interactions. With all relevant information centralized and readily accessible, you can make informed decisions that foster better financial health for your organization. In essence, the Finovers Stakeholder module not only saves you precious time but also equips you to handle your financial relationships with utmost precision and confidence, ensuring that your organization stays organized and proactive in its stakeholder dealings."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By incorporating stakeholders into the Finovers system, an organization stands to gain a multitude of advantages and can undertake various actions regarding its stakeholder list."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To access the Stakeholder module, navigate to the side menu and select \"Master\" This will expand a sub-list featuring the \"Stakeholder\" option. Clicking on this option will direct you to the Stakeholder Management page, where a range of functionalities awaits."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/stakeholder_manage_one.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "On this page, users can perform all available actions related to stakeholders, including adding new entries, modifying existing ones, and deleting those that are no longer needed. Additionally, users have the capability to activate or deactivate stakeholder statuses as required. For those faced with an extensive stakeholder list, the system offers convenient search and filter functions, allowing you to refine the list according to specified criteria and streamline your management efforts."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/stakeholder_manage_two.png",
+                        "alt": "HTML Basics Image"
+                    }
+                ]
+            },
+            {
+                "key": "add-stakeholder",
+                "title": "Add Stakeholder",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Incorporating stakeholders into your Finovers system is a crucial and strategic step in effectively managing your company's financial operations. Stakeholders play an integral role in your business's financial ecosystem—they are essential participants in various tasks, such as the addition of invoices and bills. Without established stakeholders, navigating the intricate financial landscape of your company can become a daunting challenge, significantly hindering your overall efficiency. To unlock the full potential of the Finovers system, it is vital to adhere to the comprehensive steps outlined below for adding a stakeholder. This process will not only streamline your financial workflows but also enhance the overall management of your organization."
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Start your journey by locating the Stakeholder Management section within the system. Look for the menu on the side of your screen and click on the option labeled \"Master\". From this menu, select \"Stakeholder\". You will be directed to a dedicated page designed specifically for managing your stakeholders, where you can oversee all relevant information.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once you are on the stakeholder management page, your attention should be drawn to the top right corner of the screen. Here, you will find a button labeled \"Add\". Clicking this button will open a detailed form that is specifically crafted for entering vital information about new stakeholders.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "The stakeholder add form is thoughtfully divided into four sections for clarity and ease of use. The first section focuses on personal information and begins with the critical question of stakeholder type. You must determine whether the stakeholder is categorized as a \"customer\", a \"vendor\", or perhaps both. This classification is essential as it influences how the stakeholder will be displayed in invoice and bill forms. Following this, proceed to fill in additional details such as the Name, Email ID, Phone Number, PAN Number, GST Number, and the Discount applicable for that stakeholder.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "The subsequent section is dedicated to \"Account Details\". Here, you will input information pertinent to the stakeholder's bank details. While this information is optional, it becomes necessary if you intend to process payments for invoices and bills through bank transfers. You have the flexibility to include multiple account details. To do this, simply click the \"Add More\" button beneath the payment details section, and fill in fields for the Beneficiary Name, PAN Number, Bank Name, Branch Name, Account Number, and IFSC Number.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_four.png",
+                                        "alt": "HTML Basics Image"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_five.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Moving on, the third section requests \"address details\", which are crucial for accurately generating invoices or bills. Fill in the pertinent address information, and if a different shipping address applies, make sure to check the relevant box and enter the additional shipping address details. Note that only the city, state, and country fields are mandatory, yet providing complete information will enhance clarity in your transactions.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_six.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Finally, the last part of the form is dedicated to \"Contact Person Details\". If your stakeholder is a company, it's likely that there will be a designated contact person for work-related matters. You have the option to enter multiple contact persons by clicking the \"Add More\" button under the \"Contact Details\" tab. Here, you should provide essential information such as the Name, Job Title, Phone Number, and Email of each contact.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_seven.png",
+                                        "alt": "HTML Basics Image"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_add_eight.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By diligently following these outlined steps, you can effectively integrate stakeholders into your Finovers system. This thoughtful incorporation will pave the way for efficient financial management within your organization, fostering smoother operations and improved coordination among all parties involved."
+                    }
+                ]
+            },
+            {
+                "key": "update-stakeholder",
+                "title": "Update Stakeholder",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "After entering details into the system, you may need to update some information. This could involve changing a stakeholder's personal details, account information, address, or contact person. To ensure a smooth update process, please follow the detailed steps outlined below:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "To begin, locate the Stakeholder Management section within the system. Look for the menu on the side of your screen and click on the option labeled \"Master\". From this menu, select \"Stakeholder\". You will be taken to a dedicated page designed specifically for managing your stakeholders, where you can view all relevant information.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_edit_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the stakeholder management page, take a moment to scan through the list. If you have many stakeholders, consider using the filter function to narrow down your search effectively. This will help you quickly locate the specific stakeholder you wish to update.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_edit_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Once you spot the stakeholder you want to modify, look for the action button located next to it. Click on this button, which will present you with a dropdown list of available actions. Select \"Edit\" from this list to access the edit form for that particular stakeholder.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_edit_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "The edit form you are taken to will be populated with all the details you originally entered during the stakeholder’s creation. Carefully review each field to ensure accuracy, and make any necessary changes to reflect the correct information."
+                            },
+                            {
+                                "title": "In the personal information section of the edit form, you have the flexibility to update any of the fields containing personal details. This may include changes to the stakeholder's name or other pertinent personal information. Additionally, you can remove any details that are no longer relevant or necessary.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_edit_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "In the account details section, you can comprehensively update all relevant information related to the stakeholder's accounts. This includes adding new accounts, updating existing account details, or removing accounts that are no longer applicable.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_edit_five.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Within the address details section, you can modify all entries as needed. If there is a requirement for a different shipping address or any additional address information, you can add those details. Conversely, if certain addresses are outdated or no longer needed, you can remove them as well.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_edit_six.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "In the contact information section, you have the ability to update existing entries, add new contacts, or remove old contacts that are no longer relevant. Ensure that all contact information reflects the current representatives or points of contact for the stakeholder.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_edit_seven.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After you have meticulously updated all the required fields in the form, locate the \"Submit\" button at the bottom of the page. Click on this button to finalize your changes. Your stakeholders will now be updated in the system with the new information you've provided."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these steps carefully, you can ensure that all stakeholder information is accurate and up to date, supporting effective management and communication."
+                    }
+                ]
+            },
+            {
+                "key": "activate-deactivate-stakeholder",
+                "title": "Activate/Deactivate Stakeholder",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "There may be situations where a specific stakeholder does not need to be active at the moment, but there is a possibility that it may need to be reactivated in the future. In these cases, it is often more practical to deactivate the stakeholder rather than keep it active without purpose. While regulatory requirements prevent the complete deletion of stakeholder records, deactivation offers the flexibility needed for potential future use."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To change a stakeholder's status whether to activate or deactivate it please follow these steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by locating the side menu on your screen clicking on your screen and clicking on the \"Master\" option. This will expand a submenu with various choices. Look for and select \"Stakeholders\". After doing this, you will be directed to the Stakeholder Management page, where you will see a comprehensive list of all stakeholders previously entered into the system, along with their respective details.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_active_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the Stakeholder Management page. If you have multiple stakeholders listed, it may be helpful to use the filtering options available in this section to refine your search.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_active_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Next to each stakeholder entry. Click on this button to open a contextual menu offering options to either activate or deactivate the selected stakeholder. If the stakeholder is currently marked as active, the menu will display the option \"Deactivate\". Conversely, if the stakeholder is currently inactive, the option will be labeled \"Activate\"",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_active_three.png",
+                                        "alt": "HTML Basics Image"
+                                    },
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_active_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "After you have successfully adjusted the status of the stakeholder, The system will automatically refresh the stakeholder list after you make changes. This refresh ensures that the updated information regarding the stakeholder's status is accurately reflected."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "It’s important to note that Once a stakeholder is marked as inactive, they will only be visible on the Stakeholder Management page. In contrast, active stakeholders will appear on all other relevant pages throughout the system, enhancing accessibility and management."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these steps, you can effectively manage the activation and deactivation of your stakeholders, ensuring that their status aligns with your current needs and future plans."
+                    }
+                ]
+            },
+            {
+                "key": "delete-stakeholder",
+                "title": "Delete Stakeholder",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "When you have successfully added a stakeholder to your records, there may come a time when you need to remove it. Deleting a stakeholder entry can be necessary for various reasons, such as correcting errors or updating your finance system. To ensure this process is straightforward and accurate, follow these detailed steps:"
+                    },
+                    {
+                        "type": "list",
+                        "items": [
+                            {
+                                "title": "Begin by navigating to the \"Masters\" section in the side menu of your application. Click on this option, and a dropdown menu with various choices will appear. Locate and select \"Stakeholder\" to access the dedicated page for managing stakeholder entries.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_delete_one.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "On the stakeholder page, you will see a complete list of all stakeholder entries currently stored in the system. Use the integrated search functionality to quickly find the specific stakeholder entry you wish to delete. If the list is extensive, consider utilizing the filtering options to sort entries by criteria such as Name or Status. Once you identify the correct stakeholder entry, you will see an action button next to it.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_delete_two.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Click on the action button next to the desired stakeholder entry. A dropdown menu will appear, presenting you with several options. Select the \"Delete\" option from this menu.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_delete_three.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "A pop-up will open to confirm your decision to delete the stakeholder. If you are sure you want to proceed, click on \"Delete.\" Please note that this action will permanently erase the stakeholder entry from the system and cannot be undone.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/stakeholder_delete_four.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "Before finalizing the deletion of any stakeholder record, take a moment to ensure that the stakeholder details are no longer in use. Deleting active stakeholder entries may lead to complications with other associated records, resulting in inconsistencies in your financial management. Always proceed with caution to maintain the integrity of your records"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "resource",
+        "title": "Resource",
+        "topics": [
+            {
+                "key": "getting-started-with-resource",
+                "title": "Getting Started with Resource",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Effectively managing resources and employees is a critical task for any organization, and Finovers is here to enhance your capabilities in these areas through our innovative application. Our system is designed to provide a comprehensive solution for organizing and accessing employee records, allowing you to manage data effortlessly from any location, whether you’re in the office or working remotely."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "One key feature of our application is the streamlined leave application process. Employees can submit their leave requests from anywhere, and these requests will automatically populate within the system for your review. This functionality not only simplifies communication but also empowers employees to manage their time off more efficiently. As a manager, you can process these leave applications right from your device; approve or decline requests with just a few taps, and maintain detailed records of employee leave history."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "In addition to managing leave, our application also allows you to keep thorough documentation of salary increments, complete with the corresponding dates. This feature makes it incredibly easy to track and review salary changes over time, ensuring that you have all the necessary information at your fingertips. The ability to access this data quickly reduces the dependence on physical records, drastically cutting down the amount of time you spend searching through files and enhancing overall operational efficiency. "
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "With Finovers, you can concentrate fully on what truly matters: propelling your business toward growth and success. We handle all the intricate details related to employee management. Additionally, our expertise in resource allocation ensures that your teams are efficiently organized and equipped to maximize productivity. By entrusting these essential functions to us, you can free up valuable time and energy to focus on strategic initiatives that drive your business forward."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To access resources within the system, begin by clicking on the \"Resources\" option located in the sidebar. This action will redirect you to the resource management page, which serves as the central hub for managing all resources effectively."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/resource_manage_one.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "On the resource management page, you will find several functionalities that enable you to perform key actions related to resources. These actions include filtering all data, adding new resources, editing existing ones, deleting unused entries, and activating or deactivating resources as needed."
+                    },
+                    {
+                        "type": "image",
+                        "src": "../assets/images/knowledge_base/resource_manage_two.png",
+                        "alt": "HTML Basics Image"
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "For managing leave and increment actions, you will need to access the details page. To do this, first, navigate to the management page and find the relevant employee ID. Once you have located the ID, click on it. This will redirect you to the details page for that specific resource, where you can manage relevant actions related to leave and increments in more detail."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By following these steps, you can efficiently manage resources and perform necessary actions with ease."
+                    }
+                ]
+            },
+            {
+                "key": "add-resource",
+                "title": "Add Resource",
+                "details": [
+                    {
+                        "type": "paragraph",
+                        "content": "Managing resources effectively is an essential yet complex task for companies, particularly when this process is conducted manually. Fortunately, the Finovers platform provides a streamlined solution that significantly simplifies this management process."
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "To get started with Finovers, you’ll first need to create an account on the platform. After successfully creating your account, log in to access the system. Once you are logged in, follow these detailed steps to add your resources or employees:"
+                    },
+                    {
+                        "type":"list",
+                        "items":[
+                            {
+                                "title":"Begin by locating the \"Resources\" option in the left sidebar of the dashboard. Clicking on this option will take you to the resource management page. This page serves as the central hub for overseeing all resources, providing an organized interface to manage employee data effectively.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_sidebar.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title":"On the resource management page, look for the \"Add\" button situated in the top right corner. By clicking this button, you will be redirected to a dedicated form that is designed for inputting new resource information.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_add_button.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title":"The form you are redirected to contains six distinct sections. The first section focuses on personal details, where you will need to enter important information about the resource, including Full Name, Date of Birth (DOB), Residential Address, and Joining Date. Ensure that this information is accurate, as it is vital for identification and record-keeping.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_add_personal_details.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title":"The second section of the form is reserved for documentation. Here, you will need to input details regarding the resources’ identification and verification documents. Acceptable documents include PAN Card, Aadhaar Card, and Passport. This information is crucial for compliance with various regulations and secure identity verification.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_add_document_details.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            
+                            {
+                                "title":"In the third section, you need to provide the resource's contact details: email, phone number, and alternatives. Additionally, include one emergency contact person's name and their contact number for any emergencies.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_add_bank_details.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title":"In the fourth section, you will need to provide bank details that are necessary for processing salaries. This includes Bank Name, Branch Name, Account Number, and IFSC Code. All of these details are crucial for ensuring that salary payments are processed accurately and efficiently.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_add_bank.details.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title":"The fifth section focuses on the educational qualifications of the resource. Here, you should include Degrees obtained, Institutions attended, Years of study, Grades or scores achieved. Although providing educational details is not mandatory, it is highly recommended for future reference. To add multiple educational entries, simply click on the \"Add More\" button to include additional degrees or certifications.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_add_education_details.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            },
+                            {
+                                "title":"The sixth section pertains to the resource’s work experience. Input the following details Previous companies worked for, Job titles held, Duration of employment (start and end dates). Like the educational section, this information is not required for the form but is suggested for comprehensive record-keeping. To accommodate multiple work experiences, click on the \"Add More\" option to enter additional positions.",
+                                "details": [
+                                    {
+                                        "type": "image",
+                                        "src": "../assets/images/knowledge_base/resource_add_bank_details.png",
+                                        "alt": "HTML Basics Image"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "content": "By meticulously completing each of these sections, you will not only ensure that your resources are recorded accurately but also help streamline future management and tracking processes within the Finovers platform. This structured approach facilitates better organization and enhances the overall efficiency of resource management in your company."
+                    }
+                ]
+            },
+            {
+                "key": "edit-resource",
+                "title": "Edit Resource",
+                "details": []
+            },
+            {
+                "key": "activate-deactivate-resource",
+                "title": "Activate/Deactivate Resource",
+                "details": []
+            },
+            {
+                "key": "delete-resource",
+                "title": "Delete Resource",
+                "details": []
+            },
+            {
+                "key": "add-leave",
+                "title": "Add Leaves",
+                "details": []
+            },
+            {
+                "key": "leaves-accepts-reject",
+                "title": "Leaves Accepts Reject",
+                "details": []
+            },
+            {
+                "key": "add-increment",
+                "title": "Add Increment",
+                "details": []
+            }
+        ]
+    }
+]

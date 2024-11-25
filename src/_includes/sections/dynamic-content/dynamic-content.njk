@@ -1,0 +1,29 @@
+{% for detail in details %}
+    {% if detail.type == "headingOne" %}
+        <h2 class="h1 mb-4">{{ detail.content }}</h2>
+    {% endif %}
+    {% if detail.type == "paragraph" %}
+        <p>{{ detail.content }}</p>
+    {% endif %}
+    {% if detail.type == "image" %}
+        <img src="{{ detail.src }}" alt="{{ detail.alt }}">
+        {% endif %}
+        {% if detail.type == "list" %}
+            {% include "./list-type-content.njk" items: detail.items %}
+        {% endif %}
+        {% if detail.type == "code" %}
+            <pre><code class="language-{{ detail.language }}">{{ detail.content }}</code></pre>
+        {% endif %}
+        {% if detail.type == "video" %}
+            <video controls>
+                <source src="{{ detail.src }}" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            {% endif %}
+            {% if detail.type == "quote" %}
+                <blockquote>
+                    <p>{{ detail.content }}</p>
+                    <footer>— {{ detail.author }}</footer>
+                </blockquote>
+            {% endif %}
+        {% endfor %}

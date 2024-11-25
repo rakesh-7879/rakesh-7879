@@ -1,0 +1,164 @@
+[
+    {
+        "title": "AI",
+        "items": [
+            {
+                "logo": "./assets/technologies/gpt.png",
+                "title": "GPT"
+            },
+            {
+                "logo": "./assets/technologies/lang-chain.png",
+                "title": "Lang Chain"
+            },
+            {
+                "logo": "./assets/technologies/llama-index.jpg",
+                "title": "Llama Index"
+            },
+            {
+                "logo": "./assets/technologies/prompt-engineering.png",
+                "title": "Prompt Engineering"
+            }
+        ]
+    },
+    {
+        "title": "Frontend",
+        "items": [
+            {
+                "logo": "./assets/technologies/angular.webp",
+                "title": "Angular"
+            },
+            {
+                "logo": "./assets/technologies/flutter.png",
+                "title": "Flutter"
+            },
+            {
+                "logo": "./assets/technologies/ionic.webp",
+                "title": "Ionic"
+            },
+            {
+                "logo": "./assets/technologies/react.png",
+                "title": "React Native"
+            },
+            {
+                "logo": "./assets/technologies/react.png",
+                "title": "React"
+            },
+            {
+                "logo": "./assets/technologies/nextjs.png",
+                "title": "Next.js"
+            },
+            {
+                "logo": "./assets/technologies/vuejs.png",
+                "title": "Vue.js"
+            },
+            {
+                "logo": "./assets/technologies/svelte.png",
+                "title": "Svelte"
+            },
+            {
+                "logo": "./assets/technologies/native-ios.png",
+                "title": "Native iOS"
+            },
+            {
+                "logo": "./assets/technologies/android.png",
+                "title": "Android"
+            }
+        ]
+    },
+    {
+        "title": "Backend",
+        "items": [
+            {
+                "logo": "./assets/technologies/python.webp",
+                "title": "Python"
+            },
+            {
+                "logo": "./assets/technologies/graph-gl.png",
+                "title": "GraphGL"
+            },
+            {
+                "logo": "./assets/technologies/nodejs.png",
+                "title": "Node.js"
+            },
+            {
+                "logo": "./assets/technologies/nestjs.png",
+                "title": "NestJS"
+            },
+            {
+                "logo": "./assets/technologies/microsoft-net.png",
+                "title": "Microsoft .Net"
+            },
+            {
+                "logo": "./assets/technologies/spring-boot.png",
+                "title": "Spring Boot"
+            },
+            {
+                "logo": "./assets/technologies/moleculer.png",
+                "title": "Molicular JS"
+            },
+            {
+                "logo": "./assets/technologies/django.png",
+                "title": "Django"
+            },
+            {
+                "logo": "./assets/technologies/firebase.webp",
+                "title": "Firebase"
+            },
+            {
+                "logo": "./assets/technologies/go-lang.png",
+                "title": "Golang"
+            }
+        ]
+    },
+    {
+        "title": "Databases",
+        "items": [
+            {
+                "logo": "./assets/technologies/postgresql.png",
+                "title": "PostgreSQL"
+            },
+            {
+                "logo": "./assets/technologies/mssql.png",
+                "title": "MS SQL"
+            },
+            {
+                "logo": "./assets/technologies/mysql.webp",
+                "title": "MySQL"
+            },
+            {
+                "logo": "./assets/technologies/mongodb.svg",
+                "title": "MongoDB"
+            }
+        ]
+    },
+    {
+        "title": "QA",
+        "items": [
+            {
+                "logo": "./assets/technologies/selenium.png",
+                "title": "Selenium"
+            },
+            {
+                "logo": "./assets/technologies/jenkins.png",
+                "title": "Jenkins"
+            },
+            {
+                "logo": "./assets/technologies/manual-testing.png",
+                "title": "Manual Testing"
+            },
+            {
+                "logo": "./assets/technologies/cypress.png",
+                "title": "CyPress"
+            }
+        ]
+    },
+    {
+        "title": "Design",
+        "items": [
+            {
+                "logo": "./assets/technologies/figma.png",
+                "title": "Figma"
+            }
+        ]
+    }
+]

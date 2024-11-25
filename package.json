@@ -1,0 +1,30 @@
+{
+  "name": "market-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:eleventy": "eleventy",
+    "build:css": "npx postcss src/assets/css/*.css --dir _site/assets/css --ext .min.css",
+    "build:js": "npx esbuild src/assets/js/*.js --bundle --minify --outdir=_site/assets/js",
+    "build": "npm run build:eleventy && npm run build:css",
+    "serve": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "esbuild": "^0.24.0",
+    "terser": "^5.36.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.6",
+    "fs": "^0.0.1-security",
+    "markdown-it": "^14.1.0",
+    "path": "^0.12.7",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+<ol>
+    {% for item in items %}
+        <li>
+            {{ item.title }}
+            {% if item.details %}
+                {% include "./dynamic-content.njk" details:item.details %}
+            {% endif %}
+        </li>
+    {% endfor %}
+</ol>

@@ -1,0 +1,644 @@
+.logo-section {
+    display: flex;
+    align-items: center;
+}
+
+.main-content {
+    margin-top: 84px;
+}
+
+/* Your business your way */
+.your-business-your-way {
+    margin-top: 10vh;
+    background-color: #24D366;
+    -webkit-clip-path: ellipse(120vw 100vw at 50vw 100vw);
+    clip-path: ellipse(105vw 100vw at 50vw 100vw);
+    height: 50vh;
+    color: #000;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 500% 500% 0 0;
+}
+
+.your-business-your-way h1 {
+    color: #000;
+    /* Text color */
+}
+
+.your-business-your-way a {
+    /* Custom button color */
+    color: #000;
+
+}
+
+
+.your-business-your-way p {
+    color: #000;
+    font-size: 14px;
+}
+
+/* Core values */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.core-values h2 {
+    color: #000;
+}
+
+.core-values h4:hover {
+    color: #3980be;
+    cursor: pointer;
+
+}
+
+.value-box img {
+    height: 200px;
+    width: 200px;
+}
+
+.value-box h4 {
+    color: #000;
+    font-size: 1.25rem;
+    margin-top: 1rem;
+}
+
+.value-box p {
+    color: #6c757d;
+    font-size: 0.95rem;
+}
+
+.btn-primary {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-primary:hover {
+    background-color: #004085;
+    border-color: #003d71;
+}
+
+/* Features */
+
+.features h2 {
+    color: #000;
+}
+
+.feature-card {
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+}
+
+.feature-icon {
+    color: #28a745;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    font-size: 1.15rem;
+    font-weight: bold;
+}
+
+.badge {
+    margin-top: 10px;
+}
+
+/* Blog custom css */
+
+.blog-background {
+    height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    position: relative;
+    background-color: #1e88e5;
+    background-image: url('../images/blog-banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.blog-background::before {
+    content: '';
+    position: absolute;
+    background-color: #343352;
+    top: 0;
+    opacity: .02;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.blog-values {
+    background-color: #f9fafc;
+}
+
+.blog-card {
+    position: relative;
+    box-shadow: 0 1px 5px #00000040;
+    border-radius: 7px;
+}
+
+.blog-card img {
+
+    border-radius: 7px 7px 0 0;
+
+}
+
+.blog-card h4 {
+    color: #000;
+    font-size: 1.25rem;
+    margin-top: 1rem;
+}
+
+.blog-card-content {
+    position: relative;
+    padding: 0px 14px 14px;
+}
+
+.blog-values h2 {
+    color: #0a0909;
+    z-index: 12;
+}
+
+.blog-values h3 {
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 0;
+    color: #000;
+}
+
+.blog-values h4:hover {
+    color: #3980be;
+    cursor: pointer;
+
+}
+
+.blog-box img {
+    height: 200px;
+    width: 200px;
+}
+
+.blog-box h4 {
+    color: #000;
+    font-size: 1.25rem;
+    margin-top: 1rem;
+}
+
+.blog-box p {
+    color: #6c757d;
+    font-size: 0.95rem;
+}
+
+.blog-box li:hover {
+    color: #3980be;
+    cursor: pointer;
+}
+
+.hashtag-box p {
+    margin-bottom: 0;
+}
+
+.hashtag-box a:hover {
+    text-decoration: underline;
+}
+
+/* Knowledge Base Css */
+
+.knowledge-base-background {
+    height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    position: relative;
+    background-color: #1e88e5;
+    background-image: url('../images/blog-banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.knowledge-base-background::before {
+    content: '';
+    position: absolute;
+    background-color: #343352;
+    top: 0;
+    opacity: .02;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.knowledge-base-values {
+    background-color: #f9fafc;
+}
+
+.knowledge-base-card {
+    position: relative;
+    box-shadow: 0 1px 5px #00000040;
+    border-radius: 7px;
+    min-height: 345px;
+}
+
+.knowledge-base img {
+    border-radius: 7px 7px 0 0;
+}
+
+.knowledge-base-card ul {
+    padding: 0;
+    margin: 0;
+}
+
+.knowledge-base-card li {
+    list-style: none;
+    padding-left: 10px;
+}
+
+.knowledge-base-card li:hover {
+ color: #0056b3;
+}
+
+.knowledge-base h4 {
+    color: #000;
+    font-size: 1.25rem;
+    margin-top: 1rem;
+}
+
+.knowledge-base-card-content {
+    position: relative;
+    padding: 0px 14px 14px;
+}
+
+.knowledge-base-values h2 {
+    color: #0a0909;
+    z-index: 12;
+}
+
+.knowledge-base-layout {
+    position: relative;
+    display: flex;
+    margin-top: -5px;
+    height: calc(100vh - 85px);
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.side-nav-btn {
+    position: fixed;
+    top: 250px;
+    background-color: #3980be;
+    padding: 5px;
+    color: #fff;
+    z-index: 100;
+}
+
+.knowledgebase-sidenav {
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    -webkit-transition: all .5s;
+    position: absolute;
+    top: 0;
+    transition: all .5s;
+    background: #fff;
+    width: 22%;
+    display: inline-block;
+    height: calc(100vh - 85px);
+    overflow-y: scroll;
+    box-shadow: 0px -8px 10px 1px #00000040;
+}
+
+.knowledgebase-sidenav-card {
+    padding: 0px 10px 5px 15px;
+    color: #000;
+}
+
+.knowledgebase-sidenav-card li {
+    list-style: none;
+    border-radius: 3px;
+}
+
+.sidenav-normal-opt {
+    color: #000;
+    cursor: pointer;
+    padding: 5px 8px;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
+
+.sidenav-normal-opt:hover {
+    color: #ffffff;
+    background-color: #6200ea8a;
+    padding: 5px 8px;
+}
+
+.sidenav-active-opt {
+    color: #ffffff;
+    background-color: #0056b3;
+    padding: 5px 8px;
+
+    cursor: pointer;
+}
+
+.sidenav-active-opt:hover {
+    transition: ease-in .5s;
+    color: #ffffff;
+    background-color: #6200ea;
+    padding: 5px 8px;
+
+}
+
+.knowledgebase-main {
+    margin-left: 22%;
+    padding-top: 15px;
+    width: 78%;
+    height: calc(100vh - 85px);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    overflow-y: scroll;
+}
+
+.detail-content {
+    width: 75%;
+}
+
+.detail-content img {
+    margin: 20px 0;
+}
+
+
+@media only screen and (max-width: 480px) {
+    .knowledgebase-sidenav.active {
+        width: 65% !important;
+        visibility: visible;
+        position: fixed;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .detail-content {
+        width: 100%;
+    }
+
+    .knowledgebase-sidenav {
+        width: 0;
+        visibility: hidden;
+        transition: width 0.5s, visibility 0.5s;
+    }
+
+    .knowledgebase-main {
+        width: 98%;
+        padding-left: 10px;
+    }
+
+    .knowledgebase-sidenav.active {
+        width: 65%;
+        visibility: visible;
+        position: fixed;
+    }
+
+    .side-nav-btn {
+        display: block;
+        position: fixed;
+
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .side-nav-btn {
+        display: none !important;
+    }
+}
+
+/* ----- chat bot css ------ */
+
+
+/* Floating Action Button (FAB) */
+.fab {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #6200ea;
+    color: white;
+    font-size: 24px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.fab:hover {
+    background-color: #3700b3;
+}
+
+.fab i {
+    font-size: 24px;
+}
+
+/* Chat container styling */
+.chat-container {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    /* overflow: hidden;  */
+
+    transform: scale(1);
+    transform-origin: bottom right;
+    transition: transform .2s linear;
+}
+
+.hidden-chat {
+
+    transform: scale(0);
+    transform-origin: bottom right;
+    transition: transform .2s linear;
+}
+
+/* Chat header */
+.chat-header {
+    background-color: #3980be;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    font-weight: 500;
+    position: relative;
+}
+
+/* Close button */
+.close-chat {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+}
+
+/* Chat body */
+.chat-body {
+    padding: 10px;
+    flex-grow: 1;
+    overflow-y: auto;
+    /* Allows scrolling for long messages */
+    max-height: 350px;
+    /* Adjusted to keep space for footer */
+}
+
+/* Hide the scrollbar */
+.chat-body::-webkit-scrollbar {
+    width: 0;
+}
+
+/* Common chat message style */
+.chat-message {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 12px;
+    max-width: 100%;
+    word-wrap: break-word;
+    position: relative;
+}
+
+/* Message bubble styling */
+.chat-message span {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+/* Bot message (aligned left) */
+.chat-message.bot {
+    justify-content: flex-start;
+}
+
+.chat-message.bot span {
+    background-color: #eee;
+}
+
+/* User message (aligned right) */
+.chat-message.user {
+    justify-content: flex-end;
+}
+
+.chat-message.user span {
+    background-color: #6200ea;
+    color: white;
+}
+
+/* Avatar styles */
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* Bot avatar (on the left side of message) */
+.chat-message.bot .avatar {
+    margin-right: 10px;
+    /* Space between avatar and message */
+}
+
+/* User avatar (on the right side of message) */
+.chat-message.user .avatar {
+    margin-left: 5px;
+    /* Reduced margin between avatar and chat window */
+    order: 1;
+    /* Avatar appears after the message */
+}
+
+/* Chat footer (input and send button) */
+.chat-footer {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    background-color: #f9f9f9;
+    border-radius: 10px 10px 0 0;
+}
+
+.chat-footer input {
+    flex-grow: 1;
+    border: none;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: #e0e0e0;
+    outline: none;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+}
+
+.chat-footer input:focus {
+    background-color: #d4d4d4;
+}
+
+.chat-footer button {
+    padding: 10px 0px;
+    margin-left: 10px;
+    background-color: #3980be;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+.chat-footer button:hover {
+    background-color: #3700b3;
+}
+
+.chat-footer button i {
+    font-size: 18px;
+}
+
+
+/* For scroll */
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 5px;
+}
+
+.mat-date-range-input {
+    width: 90% !important;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgb(0 0 0 / 21%);
+}

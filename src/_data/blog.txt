@@ -1,0 +1,23 @@
+{
+        "key": "",
+        "title": "",
+        "thumbnailSrc": "./assets/images/blogs/driving_long_term_success_sustainability_and_scalability_with_accounting_erp.jpeg",
+        "publishedOn": "December , 2024",
+        "categories": [
+            {
+                "category": "",
+                "subcategories": ""
+            }
+        ],
+        "hashtags": [],
+        "details": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "headingOne",
+                "content": ""
+            }
+        ]
+    }
