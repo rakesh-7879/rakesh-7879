@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest  # Switch to Ubuntu for better compatibility
 
     steps:
       - name: Checkout code from GitHub
@@ -41,10 +41,10 @@ jobs:
 
       - name: Set Up Firebase Authentication
         run: |
-          echo "${{ secrets.FIREBASE_AUTH_TOKEN }}" > $env:GITHUB_WORKSPACE/firebase-key.json
-        shell: pwsh
+          echo "${{ secrets.FIREBASE_AUTH_TOKEN }}" > $HOME/firebase-key.json
+        shell: bash
 
       - name: Deploy to Firebase
         run: firebase deploy --non-interactive --only hosting
         env:
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/firebase-key.json
+          GOOGLE_APPLICATION_CREDENTIALS: $HOME/firebase-key.json
