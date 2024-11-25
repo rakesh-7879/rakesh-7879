@@ -22,15 +22,11 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Blog</a>
                             <ul class="dropdown-menu">
+                                {% for domain in domains %}
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="./blog.html">Domain 1</a>
+                                    <a class="dropdown-item" href="./{{domain.key}}.html">{{domain.title}}</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="dropdown-item" href="./blog2.html">Domain 2</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="dropdown-item" href="./blog3.html">Domain 3</a>
-                                </li>
+                                {% endfor %}
                             </ul>
                         </li>
                         <li class="nav-item dropdown dropdown-mega">

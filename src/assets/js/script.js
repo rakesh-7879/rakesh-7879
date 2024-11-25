@@ -1,32 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-  let typingSpan = 120
-  startWriting('header-type-writer')
-
-  function startWriting(divId) {
-    let divLength = document.getElementById(divId).innerHTML.length;
-    let spans = document.getElementById(divId).getElementsByTagName('span')
-    typeWriter(spans)
-    setInterval(typeWriter, divLength * typingSpan, spans)
-  }
-
-  function typeWriter(spans) {
-    let setTimeoutTime = 0
-    for (const span of spans) {
-      let text = span.innerHTML
-      span.innerHTML = ''
-      setTimeout(writing, setTimeoutTime, span, text)
-      setTimeoutTime += typingSpan * text.length
-    }
-  }
-
-  function writing(span, text, i = 0) {
-    if (i < text.length) {
-      span.innerHTML += text.charAt(i)
-      i++
-      setTimeout(writing, typingSpan, span, text, i)
-    }
-  }
-
   // Select all nav-link elements and all tab-pane elements
   const navLinks = document.querySelectorAll(".nav-item-technology");
   const tabPanes = document.querySelectorAll(".tab-pane-technology");

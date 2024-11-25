@@ -1,0 +1,43 @@
+<section class="wrapper bg-light">
+    <div class="container py-14 py-md-16">
+        <div class="row text-center">
+            <div class="col-xl-10 mx-auto">
+                <h3 class="display-4 px-xxl-15">Technologies</h3>
+                <div class="mb-3">Our expert teams deliver innovative solutions, letting you focus on your business while we handle your
+                    technical needs, end-to-end.</div>
+            </div>
+            <!-- /column -->
+        </div>
+        <div class="row mb-4 gy-3">
+            <div class="col-12">
+                <ul class="nav nav-tabs nav-tabs-basic mt-6 w-100" role="tablist">
+                    {% for technology in technologies | safe %}
+                        <li class="nav-item nav-item-technology" role="{{ technology.title }}">
+                            <a class="nav-link ps-3 pe-3">{{ technology.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <!-- /.row -->
+        {% for technology in technologies | safe %}
+            <div class="tab-pane tab-pane-technology fade d-none" id="{{item.title }}" role="tabpanel">
+                <div class="row gy-6">
+                    {% for item in technology.items %}
+                        <div class="col-6 col-lg-2">
+                            <a href="#" class="card shadow-lg lift h-100">
+                                <div class="card-body p-5 d-flex flex-column">
+                                    <div>
+                                        <img class=" w-100 h-100 fs-20 me-4" src="{{ item.logo }}"/>
+                                    </div>
+                                    <div class="text-center mt-2">
+                                        <h4 class="mb-1">{{ item.title }}</h4>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endfor %}
+    </section>

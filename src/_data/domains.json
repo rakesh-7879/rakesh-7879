@@ -1,0 +1,27 @@
+[
+    {
+        "key": "erp",
+        "title": "ERP (Enterprise Resource Planning)",
+        "blogPath": ""
+    },
+    {
+        "key": "eln",
+        "title": "ELN (Electronic Lab Notebook)",
+        "blogPath": ""
+    },
+    {
+        "key": "fin-tech",
+        "title": "FinTech",
+        "blogPath": ""
+    },
+    {
+        "key": "health",
+        "title": "Health",
+        "blogPath": ""
+    },
+    {
+        "key": "automation",
+        "title": "Automation",
+        "blogPath": ""
+    }
+]
