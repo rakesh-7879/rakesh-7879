@@ -37,10 +37,12 @@ jobs:
           echo "Firebase service account key saved to firebase-key.json"
         shell: bash
 
-      - name: Verify Firebase CLI
-        run: firebase --version
+      - name: Build Angular app
+        run: npm run build
 
       - name: Deploy to Firebase
-        run: firebase deploy --non-interactive --only hosting
         env:
-          GOOGLE_APPLICATION_CREDENTIALS: firebase-key.json
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_AUTH_TOKEN }}
+        run: |
+          npm install -g firebase-tools
+          firebase deploy --only hosting
