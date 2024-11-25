@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "rakesh-kushwaha-ad04c",
     "public": "_site",
     "ignore": [
       "firebase.json",
