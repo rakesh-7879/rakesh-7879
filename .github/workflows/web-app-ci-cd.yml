@@ -17,15 +17,30 @@ jobs:
         with:
           node-version: '18.x'
 
+      - name: Cache Node.js modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build Angular app
         run: npm run build
 
-      - name: Deploy to Firebase
+      - name: Authenticate with Firebase
+        run: |
+          echo "${{ secrets.FIREBASE_AUTH_TOKEN }}" > $HOME/firebase-key.json
+          firebase auth:login:ci --token $HOME/firebase-key.json
         env:
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.FIREBASE_AUTH_TOKEN }}
+          FIREBASE_AUTH_TOKEN: ${{ secrets.FIREBASE_AUTH_TOKEN }}
+
+      - name: Deploy to Firebase
         run: |
           npm install -g firebase-tools
-          firebase deploy
+          firebase deploy --non-interactive --only hosting
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: $HOME/firebase-key.json
