@@ -36,20 +36,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install Firebase CLI (if not cached)
-        run: npm install -g firebase-tools
-
-      - name: Set Up Firebase Authentication
-        run: |
-          echo "${{ secrets.FIREBASE_AUTH_TOKEN }}" > $HOME/firebase-key.json
-          ls -l $HOME  # List files to confirm the JSON is created
-          cat $HOME/firebase-key.json  # Optional: Validate the JSON content
-        shell: bash
-
-      - name: Check Firebase Version
-        run: firebase --version
+      - name: Build Angular app
+        run: npm run build
 
       - name: Deploy to Firebase
-        run: firebase deploy --non-interactive --only hosting
         env:
-          GOOGLE_APPLICATION_CREDENTIALS: $HOME/firebase-key.json
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_AUTH_TOKEN }}
+        run: |
+          npm install -g firebase-tools
+          firebase deploy --only hosting
